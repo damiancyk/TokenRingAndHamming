@@ -1,0 +1,5 @@
+@@program>> czekam na now¹ symulacjê..
+@@program>> rozpoczêto now¹ symulacjê..
+@@symulacja>> komputery gotowe do pracy..
+@@k0 (monitor)>>==zosta³em monitorem==
+@@symulacja>> -=zatrzymanie pracy komputerów=-
